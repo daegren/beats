@@ -13,5 +13,9 @@
     "react-hot-loader": "^1.2.7",
     "webpack": "^1.9.10",
     "webpack-dev-server": "^1.9.0"
+  },
+  "dependencies": {
+    "flux": "^2.0.3",
+    "underscore": "^1.8.3"
   }
 }
